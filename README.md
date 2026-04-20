@@ -70,26 +70,21 @@ Typical dependencies include:
 - Matplotlib or Plotly
 
 ## Installation
+https:https://github.com/kalpeshpjadhav/Imperial-Capstone-Project--BBO
 
-```bash
-git clone https://github.com/your-username/bbo-capstone-project.git
-cd bbo-capstone-project
-pip install -r requirements.txt
-```
+
 
 ## Usage
 
 Run the optimisation notebook or script that fits the GP model, generates candidates, and selects the next query point.
 
-```bash
+
 python main.py
-```
+
 
 If using notebooks:
-
-```bash
 jupyter notebook
-```
+
 
 ## Limitations
 
